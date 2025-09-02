@@ -1,4 +1,4 @@
-# 🌩️ Resumo da Unidade – Introdução à AWS e ao Universo da Computação em Nuvem  
+# 🌩️ Resumo – Introdução à AWS e ao Universo da Computação em Nuvem  
 
 ### 🔹 Introdução à AWS  
 - História, infraestrutura global, modelo de negócio  

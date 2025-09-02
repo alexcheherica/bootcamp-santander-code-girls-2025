@@ -1,4 +1,4 @@
-# 🌩️ Resumo: Configurando sua Conta AWS com Segurança e Eficiência
+# 🌩️ Resumo - Configurando sua Conta AWS com Segurança e Eficiência
 
 ## Introdução à AWS
 - História da AWS e como ela se tornou líder em computação em nuvem  
