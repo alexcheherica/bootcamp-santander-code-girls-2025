@@ -49,10 +49,10 @@ descrição:
 |		|													                            |CURSO			        |Configurando sua Conta AWS com Segurança e Eficiência                   |1			    |	✅		  |
 |		|												                            	|CURSO	                |Primeiros Passos com Acesso Seguro e Controle de Custos na AWS          |1		        |	✅		  |
 |		|													                            |MENTORIA		        |Live de Lançamento - Code Girls 2025                                    |1	    	    |	✅		  |
-|MO-2 | Computação na Nuvem com EC2  			                                        |	   	                |				                                                         | 			    |             |
-|		|													                            |CURSO			        |Entendendo as Instância EC2 e a Otimização de Recursos na AWS           |1	   		    |        	  |
-|		|											                                    |CURSO	                |Armazenamerento na Nuvem com amazon EBS e S3                            |1	            |			  |
-|		|												                                |DESAFIO DE PROJETO	    |Gerenciando Instâncias EC2 na AWS  	                                 |1    		    |		      |
+|MO-2 | Computação na Nuvem com EC2  			                                        |	   	                |				                                                         | 			    |   ✅        |
+|		|													                            |CURSO			        |Entendendo as Instância EC2 e a Otimização de Recursos na AWS           |1	   		    |   ✅     	  |
+|		|											                                    |CURSO	                |Armazenamerento na Nuvem com amazon EBS e S3                            |1	            |	✅		  |
+|		|												                                |DESAFIO DE PROJETO	    |Gerenciando Instâncias EC2 na AWS  	                                 |1    		    |	✅	      |
 |MO-3 | Criando Recursos na AWS  				                                        |	                    |				                                                         |			    |			  |
 | 	    |											  	                                |CURSO			        |Criando sua Primeira Instância Amazon EC2                               |1	            |          	  |
 | 	    |												                                |CURSO			        |Criando sua Primeiro Bucket no Amazon S3	   			                 |1			    |			  |
