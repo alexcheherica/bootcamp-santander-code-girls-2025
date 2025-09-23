@@ -1,6 +1,6 @@
-# Bootcamp Santander Code Girls 2025 - Meu Progresso
+# Bootcamp Santander Code Girls 2025 - Minha Trajetória
 
-> Aqui você vai acompanhar minha jornada no Bootcamp Santander CODE GIRLS 2025.
+> Aqui você vai acompanhar minha jornada no Bootcamp Santander Code Girls 2025.
 
 ## 📌 Quem sou eu
 Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação e Desenvolvedora Fullstack Java em formação. Neste repositório, vou registrar tudo que aprendo: módulos, desafios, mentorias e certificados.
@@ -61,7 +61,7 @@ descrição:
 |    	|												                                |DESAFIO DE CÓDIGO	    |Associando Conceitos de Recursos da AWS                                 |1	   		    |	✅		  |
 |MO-4 |	Redes na AWS							                                        |				        | 						                                                 |			   	|   ✅        |
 |	 	|												                             	|CURSO			        |Introdução à Amazon VPC				                                 |1    		    |   ✅        |
-|	 	|													                            |CURSO			        |Entendendo o que é uma Subnet na Amazon VPC		                     |1			    |	✅		  |
+|	 	|													                            |CURSO			        |Entendendo o que é uma Subnet na Amazon VPC			                 |1			    |	✅		  |
 |	 	|											                                    |CURSO	                |Introdução ao Security Group na AWS                                     |1	            |	✅		  |
 |	 	|											                                    |CURSO	                |Explorando os Fundamentos do Route 53 na AWS                            |1	            |	✅		  |
 |	 	|													                            |CURSO	                |Introdução à Distribuição de Conteúdo com Amzon CloudFront			     |1			    |	✅		  |
