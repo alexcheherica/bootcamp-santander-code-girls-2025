@@ -53,28 +53,28 @@ descrição:
 |		|													                            |CURSO			        |Entendendo as Instância EC2 e a Otimização de Recursos na AWS           |1	   		    |   ✅     	  |
 |		|											                                    |CURSO	                |Armazenamerento na Nuvem com amazon EBS e S3                            |1	            |	✅		  |
 |		|												                                |DESAFIO DE PROJETO	    |Gerenciando Instâncias EC2 na AWS  	                                 |1    		    |	✅	      |
-|MO-3 | Criando Recursos na AWS  				                                        |	                    |				                                                         |			    |			  |
-| 	    |											  	                                |CURSO			        |Criando sua Primeira Instância Amazon EC2                               |1	            |          	  |
-| 	    |												                                |CURSO			        |Criando sua Primeiro Bucket no Amazon S3	   			                 |1			    |			  |
-| 	    |												                                |CURSO		        	|Criando sua Primeira Função com Amazon Lambda	   	                     |1			    |			  |
-| 	    |											                               	    |CURSO	                |Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional    |1             |			  |
-|    	|												                                |DESAFIO DE CÓDIGO	    |Associando Conceitos de Recursos da AWS                                 |1	   		    |			  |
-|MO-4 |	Redes na AWS							                                        |				        | 						                                                 |			   	|             |
-|	 	|												                             	|CURSO			        |Introdução à Amazon VPC				                                 |1    		    |          	  |
-|	 	|													                            |CURSO			        |Entendendo o que é uma Subnet na Amazon VPC		                     |1			    |			  |
-|	 	|											                                    |CURSO	                |Introdução ao Security Group na AWS                                     |1	            |			  |
-|	 	|											                                    |CURSO	                |Explorando os Fundamentos do Route 53 na AWS                            |1	            |			  |
-|	 	|													                            |CURSO	                |Introdução à Distribuição de Conteúdo com Amzon CloudFront			     |1			    |			  |
-|	 	|													                            |CURSO	                |Entendendo o que é o Amazon Elastic Load Balancer			             |1			    |			  |
-|MO-5 |Banco de Dados na AWS  					                                        |	   	                |				                                                         |			    |			  |
-|	 	|													                            |CURSO			        |Entendendo o que é RDS                                                  |1             |          	  |
-|	 	|													                            |CURSO			        |Introdução ao Amazon DynamoDB                                           |1           	|	          |
-|	 	|													                            |CURSO			        |Explorando Estratégias de Backup e Recuperação de Dados na AWS          |1	            |          	  |
+|MO-3 | Criando Recursos na AWS  				                                        |	                    |				                                                         |			    |	✅		  |
+| 	    |											  	                                |CURSO			        |Criando sua Primeira Instância Amazon EC2                               |1	            |   ✅        |
+| 	    |												                                |CURSO			        |Criando sua Primeiro Bucket no Amazon S3	   			                 |1			    |	✅		  |
+| 	    |												                                |CURSO		        	|Criando sua Primeira Função com Amazon Lambda	   	                     |1			    |	✅		  |
+| 	    |											                               	    |CURSO	                |Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional    |1             |	✅		  |
+|    	|												                                |DESAFIO DE CÓDIGO	    |Associando Conceitos de Recursos da AWS                                 |1	   		    |	✅		  |
+|MO-4 |	Redes na AWS							                                        |				        | 						                                                 |			   	|   ✅        |
+|	 	|												                             	|CURSO			        |Introdução à Amazon VPC				                                 |1    		    |   ✅        |
+|	 	|													                            |CURSO			        |Entendendo o que é uma Subnet na Amazon VPC		                     |1			    |	✅		  |
+|	 	|											                                    |CURSO	                |Introdução ao Security Group na AWS                                     |1	            |	✅		  |
+|	 	|											                                    |CURSO	                |Explorando os Fundamentos do Route 53 na AWS                            |1	            |	✅		  |
+|	 	|													                            |CURSO	                |Introdução à Distribuição de Conteúdo com Amzon CloudFront			     |1			    |	✅		  |
+|	 	|													                            |CURSO	                |Entendendo o que é o Amazon Elastic Load Balancer			             |1			    |	✅		  |
+|MO-5 |Banco de Dados na AWS  					                                        |	   	                |				                                                         |			    |	✅		  |
+|	 	|													                            |CURSO			        |Entendendo o que é RDS                                                  |1             |   ✅        |
+|	 	|													                            |CURSO			        |Introdução ao Amazon DynamoDB                                           |1           	|	✅        |
+|	 	|													                            |CURSO			        |Explorando Estratégias de Backup e Recuperação de Dados na AWS          |1	            |   ✅        |
 |MO-6 |	Serviços de Armazenamento e CDN  		                                        |	   	                |				                                                         |				|			  |
 |	 	|													                            |CURSO			        |Introdução ao Amazon S3                                                 |1			    |         	  |
 |	 	|													                            |CURSO			        |Conhecendo o Amazon Glacier                                             |1		        |          	  |
 |       |									  			                                |CURSO			        |Entendendo a Distribuição de Conteúdo com Amazon CloudFront             |1             |             |
-|	 	|													                            |DESAFIO DE CÓDIGO			        |Associando Conceitos de Serviços de Armazenamento e CDN                 |1			    |         	  |
+|	 	|													                            |DESAFIO DE CÓDIGO	    |Associando Conceitos de Serviços de Armazenamento e CDN                 |1			    |         	  |
 |MO-7 |	Serviços Intermediários e Avançados  	                                        |	   	                |				                                                         |              |			  |
 |	 	|													                            |CURSO			        |Entendendo como Funciona o AWS Lambda					                 |1	    	    |			  |
 |	 	|													                            |CURSO		        	|Entendendo o que são Amazon ECS e EKS na Orquestração de Containers     |1			    |			  |
