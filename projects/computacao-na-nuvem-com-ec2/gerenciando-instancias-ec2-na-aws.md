@@ -1,4 +1,4 @@
-# ☁️Primeiro Desafio de Projeto - Gerenciamento de Instâncias EC2 na AWS
+# I Desafio de Projeto - Gerenciamento de Instâncias EC2 na AWS
 
 ## Objetivo
 Documentar a prática de criação, configuração e gerenciamento de instâncias EC2 na AWS, consolidando os conhecimentos adquiridos nas aulas da DIO.
